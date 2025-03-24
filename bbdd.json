@@ -1,0 +1,21 @@
+[{
+        "titulo": "master de Diseño gráfico",
+        "duracion": "360h - 6/7 meses",
+        "modalidad": [
+            {
+                "nombre": "online"
+            },
+            {
+                "nombre": "Presencial"
+            }
+        ]
+    },
+    {
+        "titulo": "Curso de Diseño gráfico",
+        "duracion": "180h - 3 meses",
+        "modalidad": [
+            {
+                "nombre": "online"
+            }
+        ]
+    }]
